@@ -255,12 +255,16 @@ input[type=submit] {
     }
 
     .main-container {
-        width: 100%;
+        width: 90%;
+        margin-left: 5%;
+        margin-right: 5%;
         clear: both;
     }
 
     .sidebar {
-        width: 100%;
+        width: 90%;
+        margin-left: 5%;
+        margin-right: 5%;
         float: none;
         clear: both;
         max-width: none;
